@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Playwright test reports
+test-results/
+playwright-report/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Coverage and debug info
+coverage/
+.DS_Store
+*.tsbuildinfo

@@ -1,0 +1,18 @@
+{
+  "name": "amarhishabplaywrightjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cucumber-js"        
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@playwright/test": "^1.52.0",
+    "cucumber": "^6.0.7",
+    "playwright": "^1.52.0"
+  }
+}
